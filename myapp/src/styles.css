@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.appLogo {
+  position: absolute;
+  width: 100px;
+  left: 30px;
+  top: 30px;
+}
